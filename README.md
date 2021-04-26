@@ -4,7 +4,7 @@
 **Both the contributers (radius2703 and rdiussss) are my accounts.**
 
 If you're interested to join Advent of Code, here's how you join:
-
+Cancel changes
 * Head over to https://adventofcode.com.
 * On the top, click `[Log In]`.
 * Log in with one of the 4 options presented.
@@ -14,7 +14,5 @@ You don't submit your code, instead you submit the obtained result for the quest
 
 If you have solutions done in languages like C++, C#, Rust, JavaScript, etc.
 feel free to contribute by making a pull request!
-
-*If you'd like to, star it! ⭐*
 
 **Happy Christmas! 🎅🎄**
